@@ -1,4 +1,4 @@
-## hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
+## hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS</strong>
   
 building Software as a Solution used by millions of users worldwide.
 
