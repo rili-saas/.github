@@ -18,9 +18,10 @@ We’re serious about creating amazing solutiOns
 - <a href="https://pageson.click/" target="_blank">Pages</a> - quick pages for Everyone
 <!-- - <a href="https://go2work.click/" target="_blank">Workspace</a> - simple, how Everything should be -->
   
-  
+<!--
 ### our Clients
 - <a href="https://odontohora.com.br/" target="_blank">Odonto Hora</a> - Finanças na Odontologia
+-->
 
 <!-- 
 #### our Courses
