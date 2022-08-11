@@ -1,6 +1,6 @@
 ## hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS</strong>
   
-<span style='font-size:16px'>we create tools with Software to make people's lives better.</span>
+<span style='font-size:16px'>We create tools with Software to make people's lives better.</span>
 
 Tell us about the challenge you want to solve and we will manufacture a digital solutiOn. We have technology and methods for that.
 
